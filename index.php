@@ -8,7 +8,7 @@
 <body>
     <header>
         <div class="Title">
-            <h1>Inicio</h1>
+            <h2>Inicio</h2>
         </div>
     </header>
 </body>
