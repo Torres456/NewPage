@@ -6,6 +6,10 @@
     <title>Inicio</title>
 </head>
 <body>
-    
+    <header>
+        <div class="Title">
+            <h1>Inicio</h1>
+        </div>
+    </header>
 </body>
 </html>
