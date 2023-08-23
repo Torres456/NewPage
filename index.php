@@ -8,7 +8,9 @@
 <body>
     <header>
         <div class="Title">
-            <h1>Inicio</h1>
+            <div class="contenedor">
+                <h1>hola</h1>
+            </div>
         </div>
     </header>
 </body>
